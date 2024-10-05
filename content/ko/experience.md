@@ -35,7 +35,6 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
 
-sections:
   - block: experience
     content:
       title: 경력

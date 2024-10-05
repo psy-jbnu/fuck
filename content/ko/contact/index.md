@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: 연락
       text: |-
         저에게 관심이 있으신 분들은 연락해주시면 감사하겠습니다. 
       email: keres1102@jbnu.ac.kr

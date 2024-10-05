@@ -1,4 +1,5 @@
-title: 나에 대하여
+---
+title: My page
 type: landing
 
 sections:
@@ -11,3 +12,4 @@ sections:
       text: |>
         👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
         {style="font-size: 1.2rem; color: #FFB76B;} 
+---

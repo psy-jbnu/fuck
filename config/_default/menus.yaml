@@ -22,7 +22,7 @@ main:
     parent: projects
     url: projects/crop
     weight: 20
-  - name: 경력
+  - name: 학력/경력
     url: experience/
     weight: 13
   - name: 연락

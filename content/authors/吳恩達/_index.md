@@ -2,8 +2,8 @@
 # Display name
 title: 박승엽
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Seungyeop
+last_name: Park
 
 # Username (this should match the folder name)
 authors:

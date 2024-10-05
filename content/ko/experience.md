@@ -9,7 +9,7 @@ sections:
       subtitle: ''
       text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: 2006년 jan
+      date_format: 2006년 1월
       # Accomplishments.
       #   Add/remove as many `items` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -20,17 +20,18 @@ sections:
           date_end: ''
           date_start: '2023-03-01'
           description: ''
-          icon: custom/jbnu
+          icon: jbnu
+          icon_pack: custom
           organization: 전북대학교
-          organization_url: https://crop.jbnu.ac.kr/
-          url: ''
+          organization_url: https://www.jbnu.ac.kr/
+          url: 'https://crop.jbnu.ac.kr/'
         - title: 컴퓨터인공지능학부 (복수전공)
           date_end: ''
           date_start: '2024-06-01'
           description: ''
           icon: custom/jbnu
           organization: 전북대학교
-          organization_url: https://csai.jbnu.ac.kr/
+          organization_url: https://www.jbnu.ac.kr/
           url: ''
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'

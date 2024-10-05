@@ -1,11 +1,11 @@
 ---
-title: My page
+title: 학력/경력
 type: landing
 
 sections:
   - block: accomplishments
     content:
-      title: 학위
+      title: 학력
       subtitle: ''
       text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
@@ -34,4 +34,32 @@ sections:
           url: ''
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+
+      sections:
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: 2006년 2월
+      # Experiences.
+      #   Add/remove as many experience `items` below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: 강사 (근로장학생)
+          company: 전주주부평생학교
+          company_url: 'https://jjschool.modoo.at/'
+          company_logo: school
+          location: 전주
+          date_start: '2024-03-01'
+          date_end: ''
+          description: |2-
+              행정지원
+              검정고시반 (중/고) 사회 강의
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+---
 ---

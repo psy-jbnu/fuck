@@ -21,7 +21,6 @@ sections:
           date_start: '2023-03-01'
           description: ''
           icon: jbnu
-          icon_pack: custom
           organization: 전북대학교
           organization_url: https://www.jbnu.ac.kr/
           url: 'https://crop.jbnu.ac.kr/'

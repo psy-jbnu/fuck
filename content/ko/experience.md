@@ -56,8 +56,8 @@ sections:
           date_start: '2024-03-01'
           date_end: ''
           description: |2-
-              행정지원
-              검정고시반 (중/고) 사회 강의
+              - 행정지원
+              - 검정고시반 (중/고) 사회 강의
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

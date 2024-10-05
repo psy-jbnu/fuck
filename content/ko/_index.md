@@ -10,7 +10,7 @@ sections:
       title: |
         안녕하세요! 박승엽입니다.
       image:
-        filename: welcome.jpg
+        filename: avatar.jpg
       text: |
         <br>
         

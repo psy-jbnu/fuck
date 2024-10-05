@@ -16,11 +16,11 @@ main:
     weight: 12
   - name: 컴퓨터공학
     parent: projects
-    url: cs/
+    url: projects/cs/
     weight: 10
   - name: 작물생명과학
     parent: projects
-    url: crop/
+    url: projects/crop
     weight: 20
   - name: 경력
     url: experience/

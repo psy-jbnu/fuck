@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        안녕하세요! 박승엽입니다.
       image:
         filename: welcome.jpg
       text: |

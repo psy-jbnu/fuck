@@ -29,7 +29,7 @@ sections:
           date_end: ''
           date_start: '2024-06-01'
           description: ''
-          icon: custom/jbnu
+          icon: jbnu
           organization: 전북대학교
           organization_url: https://www.jbnu.ac.kr/
           url: ''

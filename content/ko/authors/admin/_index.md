@@ -62,6 +62,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+안녕하세요. 전북대학교 작물생명과학과에 재학 중인 박승엽입니다. 컴퓨터인공지능학부를 복수전공하고 있으며, 육종과 인공지능에 깊은 관심을 가지고 있습니다. 아직 특정한 연구분야는 정하지 못했습니다만, 앞으로 연구자로서 관련 분야에 기여하고 싶습니다

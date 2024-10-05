@@ -35,10 +35,10 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
 
-      sections:
+sections:
   - block: experience
     content:
-      title: Experience
+      title: 경력
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: 2006년 2월
@@ -51,7 +51,7 @@ sections:
         - title: 강사 (근로장학생)
           company: 전주주부평생학교
           company_url: 'https://jjschool.modoo.at/'
-          company_logo: school
+          company_logo: 
           location: 전주
           date_start: '2024-03-01'
           date_end: ''
@@ -61,5 +61,4 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
----
 ---

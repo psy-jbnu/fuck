@@ -27,7 +27,4 @@ main:
     weight: 13
   - name: 연락
     url: contact/
-    weight: 15
-  - name: test
-    url: about
-    weight: 1
+    weight: 14

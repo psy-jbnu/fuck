@@ -10,7 +10,7 @@ main:
   - name: News
     url: post
     weight: 20
-  - name: test
+  - name: 나에 대해서
     url: author/박승엽
     weight: 30
   - name: People

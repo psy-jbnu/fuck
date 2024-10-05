@@ -28,3 +28,6 @@ main:
   - name: 연락
     url: contact/
     weight: 15
+  - name: test
+    url: about
+    weight: 1

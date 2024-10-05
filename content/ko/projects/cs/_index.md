@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: 컴퓨터공학 프로젝트
 
 # Listing view
 view: compact

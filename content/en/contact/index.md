@@ -9,19 +9,19 @@ sections:
     content:
       title: 연락
       text: |-
-        저에게 관심이 있으신 분들은 연락해주시면 감사하겠습니다. 
+        If you interested in me, Please contact. 
       email: keres1102@jbnu.ac.kr
       address:
-        street: 전북대학교
-        city: 전주시
-        region: 전북특별자치도
+        street: JBNU
+        city: Jeonju-si
+        region: Jeonbuk-do
         postcode: '54896'
-        country: 대한민국
+        country: Korea, Republic of
         country_code: KO
       coordinates:
         latitude: '35.849120'
         longitude: '127.131878'
-      directions: 전북대학교 농대2호관 (작물생명과학과)
+      directions: JBNU
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas

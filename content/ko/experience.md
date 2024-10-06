@@ -31,7 +31,7 @@ sections:
           icon: jbnu
           organization: 전북대학교
           organization_url: https://www.jbnu.ac.kr/
-          url: 'https://crop.jbnu.ac.kr/'
+          url: 'https://csai.jbnu.ac.kr/'
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
 

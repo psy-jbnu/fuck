@@ -1,12 +1,12 @@
 ---
-title: 나에 대하여
+title: about
 type: landing
 
 sections:
   - block: about.biography
     id: about
     content:
-      title: 나에 대하여
+      title: about
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 ---

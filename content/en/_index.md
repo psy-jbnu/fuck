@@ -10,13 +10,13 @@ sections:
       username: admin
       # Override your profile text from `authors/admin/_index.md`?
       text: |
-        저는 전북대학교에서 작물생명과학과를 전공하고 있는 학부생입니다. 컴퓨터인공지능학부도 복수전공하고 있습니다.
-        두 분야 모두 충실히 학습하여 제가 원하는 분야에 진출하고 싶습니다.
+        I am an undergraduate majoring in Crop Science and Biotechnology at JBNU. I am also majoring in Computer Science and Artificial Intelligence.
+        I want to learn faithfully in both fields and work in the field I want.
   - block: slider
     content:
       slides:
-        - title: 제 홈페이지에 오신 것을 환영합니다!
-          content: 저에 대해 알아갈 수 있는 기회입니다....
+        - title: Welcome to my homepage!
+          content: It is chance to find out....
           align: center
           background:
             image:
@@ -27,8 +27,8 @@ sections:
                 brightness: 0.7
             position: right
             color: '#666'
-        - title: 작물생명과학
-          content: '작물 육종에 관심이 있습니다.'
+        - title: Crop Science and Biotechnology
+          content: 'I am interested in breeding.'
           align: left
           background:
             image:
@@ -39,8 +39,8 @@ sections:
                 brightness: 0.7
             position: center
             color: '#555'
-        - title: 컴퓨터공학
-          content: 'AI에 관심이 있습니다.'
+        - title: Crop Science and Biotechnology
+          content: 'I am interested in AI.'
           align: right
           background:
             image:
@@ -63,9 +63,9 @@ sections:
   - block: collection
     id: posts
     content:
-      title: 최근 프로젝트
+      title: Recent Project
       subtitle: ''
-      text: '제가 최근에 수행한 프로젝트를 확인하세요'
+      text: 'Check my recent project'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria

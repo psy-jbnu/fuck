@@ -13,7 +13,7 @@ role: undergraduate student
 
 # Organizations/Affiliations
 organizations:
-  - name: Crop Science and Biotechnology, JBNU 
+  - name: Department of Crop Science and Biotechnology, JBNU 
     url: https://crop.jbnu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,10 +26,10 @@ interests:
 
 education:
   courses:
-    - course: Department of Crop Science and Biotechnology (주전공)
+    - course: Department of Crop Science and Biotechnology (main)
       institution: 전북대학교
       year: 2023-
-    - course: Department of Computer Science and Artificial Intelligence(복수전공)
+    - course: Department of Computer Science and Artificial Intelligence (double)
       institution: 전북대학교
       year: 2024-
 

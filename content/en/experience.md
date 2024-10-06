@@ -1,15 +1,15 @@
 ---
-title: 학력/경력
+title: Education/Experience
 type: landing
 
 sections:
   - block: accomplishments
     content:
-      title: 학력
+      title: Education
       subtitle: ''
       text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: 2006년 1월
+      date_format: July, 2020
       # Accomplishments.
       #   Add/remove as many `items` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.

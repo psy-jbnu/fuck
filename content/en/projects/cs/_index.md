@@ -1,5 +1,5 @@
 ---
-title: 컴퓨터공학 프로젝트
+title: Computer Science Projects
 
 # Listing view
 view: compact

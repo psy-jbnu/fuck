@@ -26,11 +26,11 @@ interests:
 
 education:
   courses:
-    - course: Department of Crop Science and Biotechnology (main)
-      institution: 전북대학교
+    - course: B.S. Department of Crop Science and Biotechnology (main)
+      institution: JBNU
       year: 2023-
-    - course: Department of Computer Science and Artificial Intelligence (double)
-      institution: 전북대학교
+    - course: B.S. Computer Science and Artificial Intelligence (double)
+      institution: JBNU
       year: 2024-
 
 # Social/Academic Networking

@@ -16,22 +16,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 작물생명과학과 (주전공)
+        - title: B.S. Department of Crop Science and Biotechnology (main)
           date_end: ''
           date_start: '2023-03-01'
           description: ''
           icon: jbnu
-          organization: 전북대학교
+          organization: JBNU
           organization_url: https://www.jbnu.ac.kr/
           url: 'https://crop.jbnu.ac.kr/'
-        - title: 컴퓨터인공지능학부 (복수전공)
+        - title: B.S. Computer Science and Artificial Intelligence (double)
           date_end: ''
           date_start: '2024-06-01'
           description: ''
           icon: jbnu
-          organization: 전북대학교
+          organization: JBNU
           organization_url: https://www.jbnu.ac.kr/
-          url: ''
+          url: 'https://csai.jbnu.ac.kr/'
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
 

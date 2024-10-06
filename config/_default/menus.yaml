@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: 나에 대하여
-    url: author/박승엽
+    url: about
     weight: 11
   - name: 프로젝트
     identifier: projects

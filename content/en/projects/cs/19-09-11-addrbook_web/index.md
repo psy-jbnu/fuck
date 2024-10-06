@@ -1,6 +1,6 @@
 ---
-title: 주소록 만들기
+title: Address book 2.0
 date: 2019-09-11
 external_link: https://github.com/psy-jbnu/outlook_web
 ---
-JSP와 oracle SQL을 써서 주소록 만들어보았습니다.
+I made address book program using JSP and oracle SQL.

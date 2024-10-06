@@ -6,12 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: Strawberry
   theme_night: dark
   font: native
   font_size: L
-  theme: minimal
-  color: purple
 
 # SEO
 

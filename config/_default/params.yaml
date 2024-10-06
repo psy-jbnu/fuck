@@ -10,6 +10,7 @@ appearance:
   theme_night: dark
   font: native
   font_size: L
+  theme: minimal
   color: purple
 
 # SEO

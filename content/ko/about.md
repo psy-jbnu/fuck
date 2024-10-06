@@ -1,3 +1,4 @@
+---
 title: 나에 대하여
 type: landing
 
@@ -8,3 +9,4 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+---

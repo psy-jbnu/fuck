@@ -7,24 +7,24 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: 나에 대하여
+  - name: About
     url: about
     weight: 11
-  - name: 프로젝트
+  - name: Projects
     identifier: projects
     url: projects/
     weight: 12
-  - name: 컴퓨터공학
+  - name: Computer Science
     parent: projects
     url: projects/cs/
     weight: 10
-  - name: 작물생명과학
+  - name: Crop Science and Biotechnology
     parent: projects
     url: projects/crop
     weight: 20
-  - name: 학력/경력
+  - name: Education/Experience
     url: experience/
     weight: 13
-  - name: 연락
+  - name: Contact
     url: contact/
     weight: 14

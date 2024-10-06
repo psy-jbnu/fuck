@@ -1,5 +1,5 @@
 ---
-title: 자기소개 홈페이지 제작
+title: My homepage
 date: 2024-10-06
 external_link: https://github.com/psy-jbnu/psy-jbnu.github.io
 ---

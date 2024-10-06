@@ -37,7 +37,7 @@ sections:
 
   - block: experience
     content:
-      title: 경력
+      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: 2006년 2월
@@ -47,16 +47,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 강사 (근로장학생)
-          company: 전주주부평생학교
+        - title: instructor
+          company: Jeonju Jubu School
           company_url: 'https://jjschool.modoo.at/'
           company_logo: 
-          location: 전주
+          location: Jeonju
           date_start: '2024-03-01'
           date_end: ''
           description: |2-
-              - 행정지원
-              - 검정고시반 (중/고) 사회 강의
+              - Administrative support
+              - a Social Lecture
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

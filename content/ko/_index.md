@@ -60,4 +60,36 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 2000 
+  - block: collection
+    id: posts
+    content:
+      title: 최근 프로젝트
+      subtitle: ''
+      text: '제가 최근에 수행한 프로젝트를 확인하세요'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - projects
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      # Choose a listing view
+      view: compact
+      # Choose single or dual column layout
+      columns: '1'
 ---

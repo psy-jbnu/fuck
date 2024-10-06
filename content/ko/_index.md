@@ -15,54 +15,49 @@ sections:
   - block: slider
     content:
       slides:
-        - title: 👋 Welcome to the group
-          content: Take a look at what we're working on...
+        - title: 제 홈페이지에 오신 것을 환영합니다!
+          content: 저에 대해 알아갈 수 있는 기회입니다....
           align: center
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: coders.jpg
+              filename: books.jpg
               filters:
                 brightness: 0.7
             position: right
             color: '#666'
-        - title: Lunch & Learn ☕️
-          content: 'Share your knowledge with the group and explore exciting new topics together!'
+        - title: 작물생명과학
+          content: '작물 육종에 관심이 있습니다.'
           align: left
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: contact.jpg
+              filename: wheat.jpg
               filters:
                 brightness: 0.7
             position: center
             color: '#555'
-        - title: World-Class Semiconductor Lab
-          content: 'Just opened last month!'
+        - title: 컴퓨터공학
+          content: 'AI에 관심이 있습니다.'
           align: right
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: welcome.jpg
+              filename: ai.jpg
               filters:
                 brightness: 0.5
             position: center
             color: '#333'
-          link:
-            icon: graduation-cap
-            icon_pack: fas
-            text: Join Us
-            url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
       # Make the slides full screen within the browser window?
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000 
 ---
